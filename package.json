@@ -1,5 +1,5 @@
 {
-  "name": "todo-next2",
+  "name": "todo-next",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,8 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "classnames": "^2.5.1",
+    "immer": "^10.1.1",
+    "next": "14.2.15",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.15"
+    "zustand": "^5.0.0"
   }
 }
