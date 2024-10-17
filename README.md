@@ -15,7 +15,7 @@ A simple, yet powerful ToDo application built using **Next.js**. This app allows
 
 ## Demo
 
-[Live Demo](#) - You can view a live version of the app here.
+[Live Demo](https://next-todo-app-swart.vercel.app/) - You can view a live version of the app here.
 
 ## Features
 
